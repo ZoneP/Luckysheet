@@ -1,19 +1,4 @@
-<div align="center">
-
-![logo](/docs/.vuepress/public/img/logo_text.png)
-
-[![Join the chat at https://gitter.im/mengshukeji/Luckysheet](https://badges.gitter.im/mengshukeji/Luckysheet.svg)](https://gitter.im/mengshukeji/Luckysheet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-<a href="https://twitter.com/intent/follow?screen_name=luckysheet">
-        <img src="https://img.shields.io/twitter/follow/luckysheet?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
-
-</div>
-
-English| [简体中文](./README-zh.md)
-
-# Luckysheet is no longer maintained. It is recommended to use the upgraded version of [Univer](https://univer.short.gy/LuckysheetRepository) for production environment deployment. The new version solves problems such as large data loading, chart styles, pivot tables, formula calculations, etc., and has made many optimization designs, added import, export, printing, collaboration and other functions, improved table performance, and has a professional technical team to provide technical support.
-
-Follow the [#1454](https://github.com/dream-num/Luckysheet/issues/1454) issue for more details.
+English| [简体中文](https://github.com/ZoneP/Luckysheet/README-zh.md)
 
 ## Introduction
 🚀Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
